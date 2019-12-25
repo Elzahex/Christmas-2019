@@ -1,3 +1,9 @@
+body {
+    background-color: azure;
+    background-image: url(bow.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 div {
     margin: 0 auto;
     text-align: center;
@@ -7,14 +13,31 @@ div {
 }
 h1 {
     font-family: 'Mountains of Christmas', cursive;
+    color: white;
 }
 h2 {
     font-family: 'Cedarville Cursive', cursive;
-    font-size: 30px;
+    font-size: 28px;
+}
+p {
+    font-family: 'Alegreya', serif;
+
 }
 .coupon-container {
     margin-top: 2rem;
     border: 4px dashed black;
-    height: 15rem;
+    height: 14rem;
     width: 30rem;
+    font-size: 18px;
+}
+.coupon-container hr {
+    width: 80%;
+}
+#coupon-1 {
+    background-color: rgb(211, 57, 67);
+    color: white;
+}
+#coupon-2 {
+    background-color: rgb(88, 182, 155);
+    color: white;
 }
