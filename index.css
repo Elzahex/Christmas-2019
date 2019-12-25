@@ -8,6 +8,10 @@ div {
 h1 {
     font-family: 'Mountains of Christmas', cursive;
 }
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30px;
+}
 .coupon-container {
     margin-top: 2rem;
     border: 4px dashed black;
