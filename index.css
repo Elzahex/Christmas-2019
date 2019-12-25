@@ -1,0 +1,16 @@
+div {
+    margin: 0 auto;
+    text-align: center;
+}
+.main {
+    width: 70%;
+}
+h1 {
+    font-family: 'Mountains of Christmas', cursive;
+}
+.coupon-container {
+    margin-top: 2rem;
+    border: 4px dashed black;
+    height: 15rem;
+    width: 30rem;
+}
